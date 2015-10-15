@@ -20,7 +20,6 @@ import (
 	"errors"
 	"fmt"
 	"bytes"
-	"time"
 	"math/big"
 )
 

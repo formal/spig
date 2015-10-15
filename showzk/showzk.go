@@ -18,8 +18,7 @@ package main
 
 import (
 	"fmt"
-	"./zknumbers"
-)
+	"github.com/formal/spig/zknumbers")
 
 func main() {
 	fmt.Printf( "   n = %v\n   X = %v\n ",zknumbers.N,zknumbers.X)
